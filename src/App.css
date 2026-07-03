@@ -1,0 +1,8 @@
+.App { text-align: center; max-width: 500px; margin: 50px auto; font-family: Arial; }
+.input-box { margin: 20px 0; }
+input { padding: 10px; width: 60%; margin-right: 10px; }
+button { padding: 10px 15px; cursor: pointer; }
+ul { list-style: none; padding: 0; }
+li { background: #f4f4f4; margin: 8px 0; padding: 10px; display: flex; justify-content: space-between; border-radius: 4px; }
+li.completed span { text-decoration: line-through; color: grey; }
+li span { cursor: pointer; }
